@@ -2,25 +2,25 @@
 
                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(1).pdf" style="text-decoration:none;">Gödel, Escher, Bach: An Eternal Golden Braid</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(1).pdf" style="text-decoration:none;">Water Chemistry </a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(2).pdf" style="text-decoration:none;">Electrodynamics: from Ampere to Einstein</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(2).pdf" style="text-decoration:none;">The chemistry and technology of paints</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(3).pdf" style="text-decoration:none;">Einstein Manifolds</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(4).pdf" style="text-decoration:none;">A Short History of Chemistry</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(5).pdf" style="text-decoration:none;">A Scientist at the Seashore</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(6).pdf" style="text-decoration:none;">The Birth and Death of the Sun</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(7).pdf" style="text-decoration:none;">The large scale structure of space-time</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(3).pdf" style="text-decoration:none;">Dairy Chemistry and Biochemistry </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(4).pdf" style="text-decoration:none;">Advices For Studying Organic Chemistry</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(5).pdf" style="text-decoration:none;">Biophysical Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(6).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies®</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(7).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students: General, Organic and Natural Product Chemistry</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(8).pdf" style="text-decoration:none;"> Just Six Numbers: The Deep Forces that Shape the Universe </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(9).pdf" style="text-decoration:none;">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(10).pdf" style="text-decoration:none;">Modeling Black Hole Evaporation </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(11).pdf" style="text-decoration:none;">Pliny : Natural history ; with an English translation in ten volumes</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(12).pdf" style="text-decoration:none;">Unreliable: The Science and Logic of Bill Nye</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(13).pdf" style="text-decoration:none;">Particle physics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(8).pdf" style="text-decoration:none;"> Introduction to Colloid and Surface Chemistry </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(9).pdf" style="text-decoration:none;">Wine Chemistry and Biochemistry</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(10).pdf" style="text-decoration:none;">Solving General Chemistry Problems </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(11).pdf" style="text-decoration:none;">Organic Chemistry Principles in Context: A Story Telling Historical Approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(12).pdf" style="text-decoration:none;">Food Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(13).pdf" style="text-decoration:none;">Chemistry - A Molecular Science</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(14).pdf" style="text-decoration:none;">The Grand Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(15).pdf" style="text-decoration:none;">The Roots of Humankind</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(14).pdf" style="text-decoration:none;">Heterocyclic Chemistry at a Glance</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(15).pdf" style="text-decoration:none;">Chemistry</a></b></li>
 
 
 
