@@ -38,7 +38,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(23).pdf" style="text-decoration:none;">Encyclopedia of Chemistry </a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Physical Chemistry</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(24).pdf" style="text-decoration:none;">Physical Chemistry: David W. Ball</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(25).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></b></li>                              
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(26).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></b></li>
@@ -84,5 +84,15 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(51).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(52).pdf" style="text-decoration:none;">Organic Chemistry – chemistry of aromatics </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(53).rar" style="text-decoration:none;">The Foundations of Chemistry</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(54).rar" style="text-decoration:none;">Physical Chemistry: Gilbert W. Castellan </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(55).rar" style="text-decoration:none;">Organic Chemistry  </a></b></li>
+
+
+
+
 
 </ul>
