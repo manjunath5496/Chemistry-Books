@@ -33,33 +33,32 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(20).pdf" style="text-decoration:none;">Thermodynamics and Chemistry </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(21).pdf" style="text-decoration:none;">From Quarks to Black Holes: Interviewing the Universe</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(22).pdf" style="text-decoration:none;">Asimov On Numbers</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(23).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(21).pdf" style="text-decoration:none;">Bioinorganic Chemistry: A Short Course</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(22).pdf" style="text-decoration:none;">Lubricant Additives: Chemistry and Applications</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(23).pdf" style="text-decoration:none;">Encyclopedia of Chemistry </a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(24).pdf" style="text-decoration:none;">Planets for Man</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(24).pdf" style="text-decoration:none;">Physical Chemistry</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(25).pdf" style="text-decoration:none;">The Mysterious Universe</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(26).pdf" style="text-decoration:none;">The Book of Eggs: A Life-Size Guide to the Eggs of Six Hundred of the World's Bird Species</a></b></li>
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(25).pdf" style="text-decoration:none;">Chemistry Workbook For Dummies</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(26).pdf" style="text-decoration:none;">Oxidation and Antioxidants in Organic Chemistry and Biology</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(27).pdf" style="text-decoration:none;">Chemistry Experiments for Children</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(28).pdf" style="text-decoration:none;">Einstein, Physics and Reality </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(28).pdf" style="text-decoration:none;">Essentials of Computational Chemistry: Theories and Models </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(29).pdf" style="text-decoration:none;">Sapiens: A Brief History of Humankind </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(29).pdf" style="text-decoration:none;">Computational Chemistry </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(30).pdf" style="text-decoration:none;">Origins: Fourteen Billion Years of Cosmic Evolution</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(30).pdf" style="text-decoration:none;">Principles and Practice of Analytical Chemistry</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(31).pdf" style="text-decoration:none;">Einstein and the Changing Worldviews of Physics</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(32).pdf" style="text-decoration:none;">Grooming, Gossip and the Evolution of Language</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(31).pdf" style="text-decoration:none;">Solid State Chemistry: An Introduction</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(32).pdf" style="text-decoration:none;">The Chemistry Maths Book</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(33).pdf" style="text-decoration:none;">Beyond Einstein: The Cosmic Quest for the Theory
-of the Universe</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(33).pdf" style="text-decoration:none;">An Introduction to Environmental Chemistry</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(34).pdf" style="text-decoration:none;">100 Years Of Relativity: Space-time Structure - Einstein And Beyond</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(34).pdf" style="text-decoration:none;">Inorganic and Applied Chemistry</a></b></li> 
  
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(35).pdf" style="text-decoration:none;">Modern inorganic chemistry</a></b></li> 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(36).pdf" style="text-decoration:none;">Einstein for Beginners</a></b></li> 
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(37).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays</a></b></li>
