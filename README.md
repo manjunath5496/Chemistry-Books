@@ -65,22 +65,24 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(38).pdf" style="text-decoration:none;">Chemistry for the Utterly Confused</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(39).pdf" style="text-decoration:none;">Solving Problems: A Chemistry Handbook</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(40).pdf" style="text-decoration:none;">Organic Chemistry II For Dummies</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(41).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(42).pdf" style="text-decoration:none;">The Demon-Haunted World: Science as a Candle in the Dark </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(41).pdf" style="text-decoration:none;">A Dictionary of Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(42).pdf" style="text-decoration:none;">Essentials of Inorganic Chemistry - For Students of Pharmacy, Pharmaceutical Sciences and Medicinal Chemistry </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(43).pdf" style="text-decoration:none;">The Ray Kurzweil Reader : A collection of essays</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(44).pdf" style="text-decoration:none;">The Information: A History, a Theory, a Flood</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(45).pdf" style="text-decoration:none;">The Possibilities Mind: Conversations With God,
-Einstein, and Others</a></b></li>                             
-                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(47).pdf" style="text-decoration:none;">The Accidental Universe</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(48).pdf" style="text-decoration:none;">The Collected Papers of Albert Einstein</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(43).pdf" style="text-decoration:none;">Organic Chemistry of Explosives</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(44).pdf" style="text-decoration:none;">Peptide Chemistry and Drug Design </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(45).pdf" style="text-decoration:none;">Fundamentals of Medicinal Chemistry</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(46).pdf" style="text-decoration:none;">Synthetic Inorganic Chemistry; A Course of Laboratory and Classroom Study for First Year College Students</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(49).pdf" style="text-decoration:none;">Outliers: The Story of Success </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(47).pdf" style="text-decoration:none;">Laboratory Methods of Inorganic Chemistry</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(48).pdf" style="text-decoration:none;">The Organic Chemistry of Drug Synthesis </a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(50).pdf" style="text-decoration:none;">Conversations on the Plurality of Worlds</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(51).pdf" style="text-decoration:none;">My Brief History </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(49).pdf" style="text-decoration:none;">CliffsAP Chemistry</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(50).pdf" style="text-decoration:none;">Physical Chemistry in Brief </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(53).pdf" style="text-decoration:none;">The Once and Future Cosmos: Scientific American Special Edition </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(51).pdf" style="text-decoration:none;">Instant Notes: Analytical Chemistry </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(52).pdf" style="text-decoration:none;">Organic Chemistry – chemistry of aromatics </a></b></li>
 
 </ul>
