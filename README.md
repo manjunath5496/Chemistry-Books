@@ -91,8 +91,10 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(55).rar" style="text-decoration:none;">Organic Chemistry  </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(56).pdf" style="text-decoration:none;">Enzyme Kinetics: A Modern Approach</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(57).pdf" style="text-decoration:none;">Chemical Kinetics and Reaction Dynamics  </a></b></li>
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Books/blob/master/ctr(58).pdf" style="text-decoration:none;">Comprehensive Chemical Kinetics  </a></b></li>
 
 </ul>
