@@ -9,7 +9,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(3).pdf" style="text-decoration:none;">Dairy Chemistry and Biochemistry </a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(4).pdf" style="text-decoration:none;">Advices For Studying Organic Chemistry</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(5).pdf" style="text-decoration:none;">Biophysical Chemistry</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(6).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies®</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(6).pdf" style="text-decoration:none;">Organic Chemistry I Workbook For Dummies</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(7).pdf" style="text-decoration:none;">Chemistry for Pharmacy Students: General, Organic and Natural Product Chemistry</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(8).pdf" style="text-decoration:none;"> Introduction to Colloid and Surface Chemistry </a></b></li>
@@ -59,12 +59,12 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(34).pdf" style="text-decoration:none;">Inorganic and Applied Chemistry</a></b></li> 
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(35).pdf" style="text-decoration:none;">Modern inorganic chemistry</a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(36).pdf" style="text-decoration:none;">Einstein for Beginners</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(36).pdf" style="text-decoration:none;">Green Chemistry and the Ten Commandments of Sustainability</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(37).pdf" style="text-decoration:none;">Black Holes And Baby Universes And Other Essays</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(38).pdf" style="text-decoration:none;">The Hidden Reality</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(39).pdf" style="text-decoration:none;">Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(40).pdf" style="text-decoration:none;">The Restless Universe: Understanding X-ray Astronomy in the Age of Chandra and Newton</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(37).pdf" style="text-decoration:none;">Chemistry and Technology of Explosives</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(38).pdf" style="text-decoration:none;">Chemistry for the Utterly Confused</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(39).pdf" style="text-decoration:none;">Solving Problems: A Chemistry Handbook</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(40).pdf" style="text-decoration:none;">Organic Chemistry II For Dummies</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(41).pdf" style="text-decoration:none;">The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Science-Books/blob/master/sci(42).pdf" style="text-decoration:none;">The Demon-Haunted World: Science as a Candle in the Dark </a></b></li>
  
